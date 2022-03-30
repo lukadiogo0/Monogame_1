@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Monogame
+namespace Sokoban
 {
     public static class Program
     {
